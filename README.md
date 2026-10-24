@@ -41,8 +41,8 @@
 # 
 
 # Los datos pueden descargarse mediante los scripts del proyecto o desde sus servicios geográficos oficiales.
+## Organización del proyecto
 
-# ## Organización del proyecto
+El repositorio contiene documentación y datos geográficos de ejemplo para las prácticas del curso.
 
-El repositorio contiene documentación, scripts de Python y ejemplos de datos geográficos para las prácticas del curso.
 
