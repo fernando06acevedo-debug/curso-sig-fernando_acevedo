@@ -1,0 +1,15 @@
+
+# Datos geograficos pesados
+*.gpkg
+datos/*.geojson
+DATOS/*.geojson
+
+# Credenciales y entornos
+.env
+venv/
+.venv/
+__pycache__/
+node_modules/
+
+# Archivos temporales de Python
+*.pyc
