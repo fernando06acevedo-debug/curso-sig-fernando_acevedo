@@ -1,48 +1,7 @@
-# 
+node --version      # v20.x
+npm --version
 
-# \# curso-sig-fernando\_acevedo
-
-# 
-
-# Trabajos del curso Servicios SIG y Sitios Web de la Maestría en SIG, UJdeC.
-
-# 
-
-# \## Cómo se ejecuta
-
-# 
-
-# Los scripts del proyecto se ejecutan con Python desde la terminal.
-
-# 
-
-# 1\. Instalar Python.
-
-# 2\. Instalar las dependencias indicadas en `requirements.txt`, si existe.
-
-# 3\. Ejecutar el script correspondiente, por ejemplo:
-
-# 
-
-# &#x20;  ```powershell
-
-# &#x20;  python b1\_veredas.py
-
-# &#x20;  ```
-
-# 
-
-# \## De dónde salen los datos
-
-# 
-
-# Los datos geográficos de Boyacá provienen del IDE Boyacá y de fuentes del DANE, según la capa utilizada.
-
-# 
-
-# Los datos pueden descargarse mediante los scripts del proyecto o desde sus servicios geográficos oficiales.
-## Organización del proyecto
-
-El repositorio contiene documentación y datos geográficos de ejemplo para las prácticas del curso.
-
+# en un proyecto con package.json:
+npm install         # instala dependencias en node_modules/
+npm run dev         # arranca el servidor de desarrollo (según "scripts" del package.json)
 
